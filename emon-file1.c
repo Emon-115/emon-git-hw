@@ -1,0 +1,3 @@
+char* emon(){
+ return “emon”;
+}
